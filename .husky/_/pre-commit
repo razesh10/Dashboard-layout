@@ -1,3 +1,2 @@
 #!/usr/bin/env sh
-pnpm format:fix
-git add .
+. "${0%/*}/h"
